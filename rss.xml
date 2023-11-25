@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 25 Nov 2023 06:03:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Gazpacho Soup day!]]></title>
+            <guid>ae9e68bceb3f4292b1e1bd188435dcd4</guid>
+            <pubDate>Sat, 25 Nov 2023 05:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 id="january-1st">January 1st</h3>
+<p><em>I have decided to keep a journal of my thoughts and deeds over the coming year. A daily chart of my progress through the echelons of command, so that perhaps one day, other aspiring officers may seek enlightenment through these pages. It is my fond hope that, one day, this journal will take its place alongside "Napoleon's War Diaries" and "The Memories of Julius Caesar'"</em></p>
+<h3 id="july-17th">July 17th</h3>
+<p><em>Auntie Maggie's Birthday</em></p>
+<h3 id="november-25th">November 25th</h3>
+<p><em>Gazpacho Soup day!</em></p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
